@@ -185,12 +185,12 @@ $header_image_margin: -77px;
 //-----------------
 //  CSS BG Images
 //-----------------
-$homepage-bg-image: url('../themes/default/static/images/sunrise.jpg');
+$homepage-bg-image: url('/edx/app/edxapp/themes/default/static/images/sunrise.jpg');
 
 $login-banner-image: none;
 $register-banner-image: none;
 
-$video-thumb-url: '../themes/default/images/static/edx.png';
+$video-thumb-url: '/edx/app/edxapp/themes/default/images/static/edx.png';
 
 //-----------------
 //  Mixin Styles
